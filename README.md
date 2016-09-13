@@ -1,2 +1,2 @@
 # webapp
-My first project in the github.
+My first project.
